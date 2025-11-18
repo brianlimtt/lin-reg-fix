@@ -1,2 +1,4 @@
-seaborn
-jupyter
+jupyter==7.3.3
+seaborn==0.12.3
+scikit-learn==1.3.0
+statsmodels==0.15.2
